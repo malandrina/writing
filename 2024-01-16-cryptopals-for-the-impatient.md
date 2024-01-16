@@ -2,7 +2,7 @@
 
 _16 January 2024_
 
-Cryptopals is a free problem set comprising 66 challenges that "demonstrates attacks on real-world crypto" and in the process teaches you encryption and decryption techniques. I am an experienced programmer with minimal prior knowledge of cryptography who just wants to 1) solve the problems already and 2) learn the Rust programming language and cryptography along the way.
+[Cryptopals](https://cryptopals.com) is a free problem set comprising 66 challenges that "demonstrates attacks on real-world crypto" and in the process teaches you encryption and decryption techniques. I am an experienced programmer with minimal prior knowledge of cryptography who just wants to 1) solve the problems already and 2) learn the Rust programming language and cryptography along the way.
 
 The former desire keeps me going and the latter keeps me interested. After completing 17 of the challenges, here's how I'm approaching the remaining 49:
 
